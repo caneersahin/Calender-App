@@ -1,0 +1,10 @@
+.calendarContent{
+    margin-left: 3%;
+    margin-right: 3%;
+};
+.active2{
+    -webkit-transform: translateY(-14px) scale(0.8);
+}
+input.form-control{
+    border: 0;
+}
